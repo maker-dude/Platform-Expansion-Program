@@ -23,7 +23,7 @@ Expand, optimize, and push your factory to the limits while balancing limited sp
 - **No Dependencies:**  
   This is a standalone experience—no other mods required.
 
-![https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Resources/Media/resource_nodes.png](https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Resources/Media/resource_nodes.png)
+![https://github.com/maker-dude/Platform-Expansion-Program/blob/main/resource_nodes.png](https://github.com/maker-dude/Platform-Expansion-Program/blob/main/resource_nodes.png)
 
 ## **Why PEP?**
 PEP challenges you to rethink everything you know about Satisfactory. With no sprawling landscapes or creatures to explore, every decision happens on your platform. It’s factory building distilled to its purest form.
