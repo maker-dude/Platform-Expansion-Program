@@ -12,7 +12,7 @@ Expand, optimize, and push your factory to the limits while balancing limited sp
 
 ## **What's New in 1.1 — The Science Rework**
 
-The old purity-based science capsules are gone, and all PEP research has been removed from the HUB/MaM trees. Progression is now driven by a dedicated **science research system**:
+The old purity-based science capsules are gone, and all PEP research has been removed from the MaM trees. Progression is now driven by a dedicated **science research system**:
 
 - **Four science disciplines** — *Chemical*, *Electrical*, *Manufacturing*, and *Material* science, each with its own theme and production chain.
 - **Science Kiosk** — a new building where you set and manage active research tasks.
