@@ -1,4 +1,4 @@
-![https://github.com/maker-dude/PEP_Mod/blob/main/Resources/Media/initial_platform.png](https://github.com/maker-dude/PEP_Mod/blob/main/Resources/Media/initial_platform.png)
+![https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Media/initial_platform.png](https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Media/initial_platform.png)
 **Welcome Pioneer, to the Platform Expansion Program.**
 
 The **Platform Expansion Program** replaces natural resource deposits and exploration with a tightly focused, efficiency-driven challenge. Instead of roaming for nodes, you'll build and place **deployable resource nodes**, expanding your platform piece by piece to maximize output under extreme resource constraints.
@@ -7,7 +7,7 @@ The **Platform Expansion Program** replaces natural resource deposits and explor
 Expand, optimize, and push your factory to the limits while balancing limited space and escalating demands. Every phase unlocks new technologies to grow your platform and automate production, culminating in a fully self-sustaining factory suspended in the sky.
 
 <p align="center">
-  <img src="https://github.com/maker-dude/PEP_Mod/blob/main/Resources/Media/science.png" alt="Science!"/>
+  <img src="https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Media/science.png" alt="Science!"/>
 </p>
 
 ## **What's New in 1.1 — The Science Rework**
@@ -37,7 +37,7 @@ The old purity-based science capsules are gone, and all PEP research has been re
 - **No Dependencies:**
   This is a standalone experience—no other mods required.
 
-![https://github.com/maker-dude/PEP_Mod/blob/main/Resources/Media/resource_nodes.png](https://github.com/maker-dude/PEP_Mod/blob/main/Resources/Media/resource_nodes.png)
+![https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Media/resource_nodes.png](https://github.com/maker-dude/Platform-Expansion-Program/blob/main/Media/resource_nodes.png)
 
 ## **Highlights & Balance Changes**
 - Project Parts and Regular Parts now scale with game mode multipliers.
